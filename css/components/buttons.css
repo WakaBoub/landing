@@ -1,0 +1,15 @@
+.btn-black-white {
+  background-color: white;
+  color: black;
+  font-weight: 400px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-top: 70px;
+  display: block;
+  width: 100px;
+  text-align: center;
+}
+
+.btn-black-white:hover {
+  background-color: rgb(235, 112, 112);
+}
